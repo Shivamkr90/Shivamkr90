@@ -1,4 +1,4 @@
-#Hii there 👋🏻
+## Hii there 👋🏻
 
 # 💫 About Me:
 🚀 Hi, I'm Shivam Kumar, a B.Tech Computer Science Engineering student at Millennium Institute of Technology and Science and an aspiring Software Engineer. I am passionate about building impactful software, solving real-world problems, and continuously learning new technologies.<br><br>💻 My current focus is on Data Structures & Algorithms, Java, Python, Object-Oriented Programming, Full Stack Development, and Artificial Intelligence. I also have hands-on experience with Power BI, where I built interactive data analytics dashboards to visualize key business metrics such as revenue, orders, and performance insights.<br><br>🌱 I believe consistency, curiosity, and continuous improvement are the foundation of success. I enjoy writing clean, efficient code, analyzing data, and collaborating on projects that create real value.<br><br>⚡ Fun Fact: I believe great software is built by developers who think beyond code. My goal is to create meaningful impact through technology, helping businesses grow while continuously growing as an engineer.
