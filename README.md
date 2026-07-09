@@ -46,10 +46,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2026 - To: 07 July 2026
+From: 01 July 2026 - To: 08 July 2026
 
-Java   2 hrs 10 mins         ████████████████████████░   95.82 %
-C      5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Java   13 mins               █████████████████▓░░░░░░░   70.32 %
+C      5 mins                ███████▒░░░░░░░░░░░░░░░░░   29.68 %
 ```
 
 <!--END_SECTION:waka-->
